@@ -1,4 +1,4 @@
-# ![HEADER](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=ShadowMonarch)
+# ![HEADER]([https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=ShadowMonarch](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=ShadowMonarch&fontAlignY=40&animation=fadeIn))
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=35&letterSpacing=-1px&pause=1000&color=F70000&background=FFFFFF00&vCenter=true&width=435&lines=Build.+Break.+Improve.+Repeat.)](https://git.io/typing-svg)
