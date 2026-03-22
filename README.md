@@ -11,7 +11,7 @@ Creator of **[Requiem]**, a Discord bot that actually delivers.
 
 I’m always pushing myself to build better, learn faster, and explore new tools that elevate my work. Growth, for me, means evolving with technology — not staying stuck in what’s comfortable.
 
-> AI doesn’t replace humans. It replaces those who don’t know how to use it.
+> ## AI doesn’t replace humans. It replaces those who don’t know how to use it.
 
 ---
 
