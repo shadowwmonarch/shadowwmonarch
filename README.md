@@ -1,135 +1,82 @@
-# 🚀 Copilot Prompt — Aesthetic GitHub Profile README
+<div align="center">
 
-## 🎯 Objective
+# ⚡ shadowwmonarch
 
-Generate a minimal, modern, and aesthetic GitHub profile README.md.
+### _Building clean systems. Thinking in logic. Designing with intent._
 
----
+<br/>
 
-## 📌 Context
+<img src="https://komarev.com/ghpvc/?username=shadowwmonarch&style=flat-square&color=blueviolet" />
 
-* **Username:** shadowwmonarch
-* This is a **personal developer profile README** (not a project README)
+<a href="https://github.com/shadowwmonarch?tab=followers">
+  <img src="https://img.shields.io/github/followers/shadowwmonarch?style=flat-square&color=blueviolet" />
+</a>
+<a href="https://github.com/shadowwmonarch?tab=repositories">
+  <img src="https://img.shields.io/github/stars/shadowwmonarch?style=flat-square&color=blueviolet" />
+</a>
 
----
-
-## 🧠 Skills to Highlight
-
-* Prompt Engineering
-* DBMS
-* Python
-* TypeScript
+</div>
 
 ---
 
-## ⚙️ Requirements
+## 👤 About
 
-* Keep the design **clean, minimal, and professional**
-* Avoid clutter and unnecessary sections
-* Tone should feel **calm, confident, and slightly futuristic**
-* Use **subtle emojis** (not excessive)
-* Use **centered layout** for header and stats
-* Make it visually **aesthetic and balanced**
+> I build things that are simple on the surface, powerful underneath.
+
+Focused on writing clean, scalable code and thinking deeply about systems, logic, and efficiency.  
+Always exploring better ways to solve problems and design meaningful software.
 
 ---
 
-## 🧱 Structure
+## 🧠 Core Skills
 
-### 1. Centered Header
+<div align="center">
 
-* Username as title
-* Short one-line tagline (clean and thoughtful)
-* Profile views + followers + stars badges
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111111?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-111111?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
-
-### 2. About Section
-
-* Short, sharp intro (**2–4 lines max**)
-* Focus on:
-
-  * clean code
-  * systems thinking
-  * problem solving
+</div>
 
 ---
 
-### 3. Core Skills Section
+## 📌 Focus
 
-* Use **badge-style display**
-* Only include:
-
-  * Prompt Engineering
-  * DBMS
-  * Python
-  * TypeScript
+- 🧩 Problem solving & logical thinking  
+- ⚙️ Backend systems & databases  
+- 🤖 Prompt engineering & AI workflows  
+- 🧱 Writing clean, maintainable code  
 
 ---
 
-### 4. Focus Section
+## 📊 GitHub Overview
 
-* 3–4 bullet points about:
+<div align="center">
 
-  * backend systems
-  * problem solving
-  * AI workflows
-  * structured code
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shadowwmonarch&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowwmonarch&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-### 5. GitHub Stats Section
-
-* Include:
-
-  * GitHub stats card
-  * Top languages card
-* Must be **center aligned**
+</div>
 
 ---
 
-### 6. Projects Section
+## 🚀 Projects
 
-* ❌ DO NOT add fake/sample projects
-* ❌ DO NOT include featured/static projects
-* ✅ Add placeholder text:
+> Public projects will appear here as they are added.
 
-  > "Public projects will appear here as they are added"
-* ✅ Include GitHub repo pin cards (dynamic)
-* ✅ Make it **future-proof** for adding repos later
+<div align="center">
 
----
+<!-- Replace repo-name with your actual repositories when they are public -->
 
-## 🚫 Remove These Sections (Strict)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowwmonarch&repo=repo-name&theme=tokyonight&hide_border=true"/>
 
-* Table of Contents
-* Featured Projects
-* Project Structure
-* Getting Started
-* Usage
-* Screenshots
-* Contributing
-* FAQ
-* License
+</div>
 
 ---
 
-## 🎨 Design Rules
+<div align="center">
 
-* Use clean spacing and separators (`---`)
-* Keep it **concise**
-* Make it look like a **high-quality developer portfolio**
-* Avoid long paragraphs
-* No unnecessary explanations
+### ⚡ _Evolving. Building. Iterating._
 
----
-
-## 📤 Output Rules
-
-* Return **only the final README.md content**
-* Do **not** include explanations
-
----
-
-## ✨ Optional Style Enhancement
-
-> Style inspiration: minimal, futuristic, developer portfolio with a "quiet confidence" aesthetic.
+</div>
