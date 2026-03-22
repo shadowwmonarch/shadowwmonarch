@@ -1,22 +1,30 @@
-# ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Shadow)
+# ![Header][(https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Shadow](https://capsule-render.vercel.app/api?type=waving&height=300&text=ShadowMonarch&reversal=false&textBg=false&color=gradient&customColorList=0,1,0))
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+build+things+that+aren't+boring.)
+![Typing SVG]([![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+New+Zealand+Basic&size=18&pause=1000&vCenter=true&multiline=true&width=610&height=55&lines=This+is+where+the+next+version+of+me+starts+taking+shape.)](https://git.io/typing-svg))
 
-Founder of [Buape Studios](https://buape.com) — a dev studio focused on quality applications and empowering next-gen developers. Creator of [Kiai](https://kiai.app), the leveling bot that actually slaps.
+## 👤 About Me
 
-I don't do cookie-cutter. No generic portfolios, no "yet another moderation bot." If it's been done a thousand times, I'm not interested. I build things that are different.
-Also a core maintainer of [OpenClaw](https://openclaw.ai) and wrangler of the Discord chaos there.
+An upcoming developer focused on learning how to build high-quality, meaningful applications — with a strong interest in prompt engineering and AI-driven workflows.
 
-Currently working on:
-- [Carbon](https://carbon.buape.com) — Framework for HTTP-based Discord bots
-- [OpenClaw](https://openclaw.ai) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+Creator of **[Requiem]**, a Discord bot that actually delivers.
 
-![Skills](https://skillicons.dev/icons?i=ts,discord,cloudflare,docker,apple)
+I’m always pushing myself to build better, learn faster, and explore new tools that elevate my work. Growth, for me, means evolving with technology — not staying stuck in what’s comfortable.
+
+> AI doesn’t replace humans. It replaces those who don’t know how to use it.
+
+---
+
+### 🚀 Currently Working On
+
+- **[Requiem]** — My Discord bot  
+- **[Projects]** — College projects and experiments
+
+![Skills](https://skillicons.dev/icons?i=ts,discord,discordjs,py,prisma,mongodb,nextjs,mysql)
 
 
-![](https://hit.yhype.me/github/profile?user_id=35580099)
+![](https://hit.yhype.me/github/profile?user_id=shadowwmonarch)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewilloftheshadow&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowwmonarch&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thewilloftheshadow&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shadowwmonarch&theme=tokyo-night)
