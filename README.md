@@ -21,10 +21,9 @@
 
 ## 👤 About
 
-> I build things that are simple on the surface, powerful underneath.
+> Student. Developer in progress.
 
-Focused on writing clean, scalable code and thinking deeply about systems, logic, and efficiency.  
-Always exploring better ways to solve problems and design meaningful software.
+Learning. Building. Improving.
 
 ---
 
