@@ -6,7 +6,7 @@
 
 An upcoming developer focused on learning how to build high-quality, meaningful applications — with a strong interest in prompt engineering and AI-driven workflows.
 
-Creator of **Requiem**, a Discord bot that actually delivers.
+Creator of **Requiem**, a Discord bot that actually slaps.
 
 I’m always pushing myself to build better, learn faster, and explore new tools that elevate my work. Growth, for me, means evolving with technology — not staying stuck in what’s comfortable.
 
