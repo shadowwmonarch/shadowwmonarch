@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=35&letterSpacing=-1px&pause=1000&color=F70000&background=FFFFFF00&vCenter=true&width=435&lines=Build.+Break.+Improve.+Repeat.)](https://git.io/typing-svg)
 
-## 👤 About Me
 
 An upcoming developer focused on learning how to build high-quality, meaningful applications — with a strong interest in prompt engineering and AI-driven workflows.
 
@@ -15,10 +14,14 @@ I’m always pushing myself to build better, learn faster, and explore new tools
 
 ---
 
-### 🚀 Currently Working On
+### Currently Working On
 
 - **[Requiem]** — My Discord bot  
 - **[Projects]** — College projects and experiments
+
+---
+
+## Skill Sets
 
 ![Skills](https://skillicons.dev/icons?i=ts,discord,discordjs,py,prisma,mongodb,nextjs,mysql)
 
