@@ -1,7 +1,7 @@
-# ![HEADER](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=ShadowMonarch&reversal=false&textBg=false)
+# ![HEADER](blob:https://capsule-render.vercel.app/9c09b740-f722-41e3-847e-08b48841fba3)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=26&letterSpacing=-1px&pause=1000&color=F70000&background=FFFFFF00&vCenter=true&width=435&lines=Build.+Break.+Improve.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=35&letterSpacing=-1px&pause=1000&color=F70000&background=FFFFFF00&vCenter=true&width=435&lines=Build.+Break.+Improve.+Repeat.)](https://git.io/typing-svg)
 
 ## 👤 About Me
 
