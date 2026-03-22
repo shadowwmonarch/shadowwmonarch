@@ -55,7 +55,6 @@ Always exploring better ways to solve problems and design meaningful software.
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shadowwmonarch&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowwmonarch&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
