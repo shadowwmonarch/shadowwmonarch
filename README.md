@@ -21,7 +21,7 @@
 
 ## 👤 About
 
-> Student. Developer in progress.
+Student. Developer in progress.
 
 Learning. Building. Improving.
 
