@@ -1,243 +1,135 @@
-<div align="center">
+# 🚀 Copilot Prompt — Aesthetic GitHub Profile README
 
-# ⚡ shadowwmonarch
+## 🎯 Objective
 
-### _Crafting elegant code. Building the future — one commit at a time._
-
-[![Profile Views](https://komarev.com/ghpvc/?username=shadowwmonarch&style=flat-square&color=blueviolet)](https://github.com/shadowwmonarch)
-[![GitHub followers](https://img.shields.io/github/followers/shadowwmonarch?style=flat-square&color=blueviolet)](https://github.com/shadowwmonarch?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/shadowwmonarch?style=flat-square&color=blueviolet)](https://github.com/shadowwmonarch?tab=repositories)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blueviolet?style=flat-square)](LICENSE)
-
-</div>
+Generate a minimal, modern, and aesthetic GitHub profile README.md.
 
 ---
 
-## 📑 Table of Contents
+## 📌 Context
 
-- [Introduction](#-introduction)
-- [What I Do](#-what-i-do)
-- [Tech Stack](#-tech-stack)
-- [Featured Projects](#-featured-projects)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Usage](#-usage)
-- [Screenshots](#-screenshots)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [FAQ](#-faq)
-- [License](#-license)
+* **Username:** shadowwmonarch
+* This is a **personal developer profile README** (not a project README)
 
 ---
 
-## 👤 Introduction
+## 🧠 Skills to Highlight
 
-> **Hello, world.** I'm **shadowwmonarch** — a passionate software developer who loves building clean, scalable, and impactful software. I thrive at the intersection of performance and developer experience, and I believe great code is both an art and a science.
-
-Whether it's architecting back-end systems, crafting responsive UIs, or diving deep into open-source contributions — I bring curiosity and craftsmanship to everything I build.
-
-- 🔭 Currently working on exciting open-source projects
-- 🌱 Always learning — currently exploring systems programming & AI tooling
-- 👯 Open to collaborating on meaningful, impactful projects
-- 💬 Ask me about software architecture, open source, or anything dev-related
-- 📫 Reach me via [GitHub Issues](https://github.com/shadowwmonarch/shadowwmonarch/issues)
-- ⚡ Fun fact: I debug by talking to my rubber duck 🦆
+* Prompt Engineering
+* DBMS
+* Python
+* TypeScript
 
 ---
 
-## 🚀 What I Do
+## ⚙️ Requirements
 
-| Area | Skills |
-|---|---|
-| **Backend Development** | REST APIs, microservices, databases, server-side logic |
-| **Frontend Development** | Responsive UIs, component-driven design, web performance |
-| **DevOps & Tooling** | CI/CD pipelines, containerization, automation scripts |
-| **Open Source** | Contributing to community projects, building dev tools |
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+* Keep the design **clean, minimal, and professional**
+* Avoid clutter and unnecessary sections
+* Tone should feel **calm, confident, and slightly futuristic**
+* Use **subtle emojis** (not excessive)
+* Use **centered layout** for header and stats
+* Make it visually **aesthetic and balanced**
 
 ---
 
-## 📦 Featured Projects
+## 🧱 Structure
 
-> _A curated selection of work I'm proud of._
+### 1. Centered Header
 
-| Project | Description | Stack | Stars |
-|---|---|---|---|
-| **[project-alpha](https://github.com/shadowwmonarch/project-alpha)** | A high-performance API gateway | Node.js, TypeScript | ⭐ |
-| **[project-beta](https://github.com/shadowwmonarch/project-beta)** | CLI tool for developer automation | Python | ⭐ |
-| **[project-gamma](https://github.com/shadowwmonarch/project-gamma)** | Minimal, fast web dashboard | React, Vite | ⭐ |
+* Username as title
+* Short one-line tagline (clean and thoughtful)
+* Profile views + followers + stars badges
 
 ---
 
-## 🗂 Project Structure
+### 2. About Section
 
-Below is a representative structure for a typical project in this organisation:
+* Short, sharp intro (**2–4 lines max**)
+* Focus on:
 
-```
-project-name/
-├── src/
-│   ├── core/            # Core business logic
-│   ├── api/             # API routes and controllers
-│   ├── utils/           # Shared utilities
-│   └── index.ts         # Entry point
-├── tests/
-│   ├── unit/            # Unit tests
-│   └── integration/     # Integration tests
-├── docs/                # Documentation
-├── .github/
-│   └── workflows/       # CI/CD workflows
-├── Dockerfile
-├── package.json
-└── README.md
-```
+  * clean code
+  * systems thinking
+  * problem solving
 
 ---
 
-## ⚙️ Getting Started
+### 3. Core Skills Section
 
-Clone any project and get it running in minutes:
+* Use **badge-style display**
+* Only include:
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/shadowwmonarch/<project-name>.git
-
-# 2. Navigate into the project directory
-cd <project-name>
-
-# 3. Install dependencies
-npm install        # for Node.js projects
-# or
-pip install -r requirements.txt   # for Python projects
-
-# 4. Configure environment variables
-cp .env.example .env
-# Edit .env with your settings
-
-# 5. Start the development server
-npm run dev
-```
-
-> **Prerequisites:** Node.js ≥ 18 / Python ≥ 3.10, Git, Docker (optional)
+  * Prompt Engineering
+  * DBMS
+  * Python
+  * TypeScript
 
 ---
 
-## 💻 Usage
+### 4. Focus Section
 
-```bash
-# Run the application
-npm start
+* 3–4 bullet points about:
 
-# Run tests
-npm test
-
-# Build for production
-npm run build
-
-# Lint & format
-npm run lint
-```
-
-**Example output:**
-
-```
-✔ Server running at http://localhost:3000
-✔ Connected to database
-✔ All systems operational
-```
+  * backend systems
+  * problem solving
+  * AI workflows
+  * structured code
 
 ---
 
-## 🖼 Screenshots
+### 5. GitHub Stats Section
 
-> _Demo visuals for featured projects._
+* Include:
 
-<div align="center">
-
-| Dashboard View | API Response |
-|---|---|
-| ![Dashboard Placeholder](https://via.placeholder.com/480x270?text=Dashboard+Screenshot) | ![API Placeholder](https://via.placeholder.com/480x270?text=API+Response+Screenshot) |
-
-</div>
+  * GitHub stats card
+  * Top languages card
+* Must be **center aligned**
 
 ---
 
-## 🗺 Roadmap
+### 6. Projects Section
 
-- [x] Initial project scaffolding
-- [x] Core feature implementation
-- [x] CI/CD pipeline setup
-- [ ] Comprehensive test coverage
-- [ ] Performance benchmarking
-- [ ] Public API documentation
-- [ ] v1.0 stable release
+* ❌ DO NOT add fake/sample projects
+* ❌ DO NOT include featured/static projects
+* ✅ Add placeholder text:
 
----
-
-## 🤝 Contributing
-
-Contributions are warmly welcomed! Here's how to get involved:
-
-1. **Fork** the repository
-2. **Create** a feature branch: `git checkout -b feature/your-feature`
-3. **Commit** your changes: `git commit -m "feat: add your feature"`
-4. **Push** to your branch: `git push origin feature/your-feature`
-5. **Open** a Pull Request
-
-Please follow the [Conventional Commits](https://www.conventionalcommits.org/) standard and ensure all tests pass before submitting.
+  > "Public projects will appear here as they are added"
+* ✅ Include GitHub repo pin cards (dynamic)
+* ✅ Make it **future-proof** for adding repos later
 
 ---
 
-## ❓ FAQ
+## 🚫 Remove These Sections (Strict)
 
-<details>
-<summary><strong>How do I report a bug?</strong></summary>
-
-Open an [issue](https://github.com/shadowwmonarch/shadowwmonarch/issues) with the `bug` label. Include steps to reproduce, expected vs actual behavior, and your environment details.
-
-</details>
-
-<details>
-<summary><strong>Can I use this code in my own projects?</strong></summary>
-
-Yes! All projects are released under the MIT License — free to use, modify, and distribute with attribution.
-
-</details>
-
-<details>
-<summary><strong>How can I get in touch?</strong></summary>
-
-Open a GitHub Discussion or Issue on any repository. I typically respond within a few days.
-
-</details>
+* Table of Contents
+* Featured Projects
+* Project Structure
+* Getting Started
+* Usage
+* Screenshots
+* Contributing
+* FAQ
+* License
 
 ---
 
-## 📄 License
+## 🎨 Design Rules
 
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for full details.
+* Use clean spacing and separators (`---`)
+* Keep it **concise**
+* Make it look like a **high-quality developer portfolio**
+* Avoid long paragraphs
+* No unnecessary explanations
 
 ---
 
-<div align="center">
+## 📤 Output Rules
 
-_Made with ❤️ by [shadowwmonarch](https://github.com/shadowwmonarch)_
+* Return **only the final README.md content**
+* Do **not** include explanations
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowwmonarch&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/shadowwmonarch)
+---
 
-</div>
+## ✨ Optional Style Enhancement
+
+> Style inspiration: minimal, futuristic, developer portfolio with a "quiet confidence" aesthetic.
