@@ -61,20 +61,6 @@ Always exploring better ways to solve problems and design meaningful software.
 
 ---
 
-## 🚀 Projects
-
-> Public projects will appear here as they are added.
-
-<div align="center">
-
-<!-- Replace repo-name with your actual repositories when they are public -->
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowwmonarch&repo=repo-name&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### ⚡ _Evolving. Building. Iterating._
