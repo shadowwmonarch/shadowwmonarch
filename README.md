@@ -1,66 +1,22 @@
-<div align="center">
+# ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Shadow)
 
-# ⚡ shadowwmonarch
 
-### _Building clean systems. Thinking in logic. Designing with intent._
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+build+things+that+aren't+boring.)
 
-<br/>
+Founder of [Buape Studios](https://buape.com) — a dev studio focused on quality applications and empowering next-gen developers. Creator of [Kiai](https://kiai.app), the leveling bot that actually slaps.
 
-<img src="https://komarev.com/ghpvc/?username=shadowwmonarch&style=flat-square&color=blueviolet" />
+I don't do cookie-cutter. No generic portfolios, no "yet another moderation bot." If it's been done a thousand times, I'm not interested. I build things that are different.
+Also a core maintainer of [OpenClaw](https://openclaw.ai) and wrangler of the Discord chaos there.
 
-<a href="https://github.com/shadowwmonarch?tab=followers">
-  <img src="https://img.shields.io/github/followers/shadowwmonarch?style=flat-square&color=blueviolet" />
-</a>
-<a href="https://github.com/shadowwmonarch?tab=repositories">
-  <img src="https://img.shields.io/github/stars/shadowwmonarch?style=flat-square&color=blueviolet" />
-</a>
+Currently working on:
+- [Carbon](https://carbon.buape.com) — Framework for HTTP-based Discord bots
+- [OpenClaw](https://openclaw.ai) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-</div>
+![Skills](https://skillicons.dev/icons?i=ts,discord,cloudflare,docker,apple)
 
----
 
-## 👤 About
+![](https://hit.yhype.me/github/profile?user_id=35580099)
 
-Student. Developer in progress.
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewilloftheshadow&theme=tokyonight)
 
-Learning. Building. Improving.
-
----
-
-## 🧠 Core Skills
-
-<div align="center">
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111111?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-111111?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</div>
-
----
-
-## 📌 Focus
-
-- 🧩 Problem solving & logical thinking  
-- ⚙️ Backend systems & databases  
-- 🤖 Prompt engineering & AI workflows  
-- 🧱 Writing clean, maintainable code  
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shadowwmonarch&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ _Evolving. Building. Iterating._
-
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thewilloftheshadow&theme=tokyo-night)
