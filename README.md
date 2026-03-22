@@ -16,8 +16,8 @@ I’m always pushing myself to build better, learn faster, and explore new tools
 
 ### Currently Working On
 
-- **Requiem** — My Discord bot  
-- **Projects** — College projects and experiments
+- **Requiem** — My Discord bot.
+- **Projects** — College projects.
 
 ---
 
