@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradientcustomColorList=0,1,1,0&height=200&text=ShadowMonarch&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradientcustomColorList=0,100,100,0&height=200&text=ShadowMonarch&animation=fadeIn&fontColor=ffffff)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=35&letterSpacing=-1px&pause=1000&color=F70000&background=FFFFFF00&vCenter=true&width=435&lines=Build.+Break.+Improve.+Repeat.)](https://git.io/typing-svg)
