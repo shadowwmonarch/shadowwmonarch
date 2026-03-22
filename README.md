@@ -10,24 +10,35 @@ Creator of **Requiem**, a Discord bot that actually slaps.
 
 I’m always pushing myself to build better, learn faster, and explore new tools that elevate my work. Growth, for me, means evolving with technology — not staying stuck in what’s comfortable.
 
-> ## AI doesn’t replace humans. It replaces those who don’t know how to use it.
+>  AI doesn’t replace humans. It replaces those who don’t know how to use it.
 
 ---
 
-### Currently Working On
+## Currently Working On
 
 - **Requiem** — My Discord bot.
-- **Projects** — College projects.
+-  **Projects** — College projects.
 
 ---
 
 ## Skill Sets
-
+<div align="center">
+  
 ![Skills](https://skillicons.dev/icons?i=ts,discord,discordjs,py,prisma,mongodb,nextjs,mysql)
 
+</div>
 
-![](https://hit.yhype.me/github/profile?user_id=shadowwmonarch)
+---
+  
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shadowwmonarch&theme=github_dark)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowwmonarch&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shadowwmonarch&theme=tokyo-night)
+  
+![Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowwmonarch&theme=github_dark)
+
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shadowwmonarch&theme=github_dark)
+
+</div>
